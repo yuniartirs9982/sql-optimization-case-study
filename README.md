@@ -1,5 +1,17 @@
 # SQL Optimization Case Study
 
+## 🚀 Key Improvements
+- Reduced query time by 30–60%  
+- Eliminated full table scans  
+- Improved index utilization
+
+---
+## 🔍 Query Execution Flow
+
+<img width="1100" height="600" alt="sql_execution_plan_flow" src="" />
+
+---
+
 ## 📌 Overview
 This repository demonstrates a real-world approach to **SQL query optimization** in data-intensive backend systems.
 
